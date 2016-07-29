@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ make()
+comment1.params=timePassed
+comment1.target=void\ update(long)
+comment2.params=g
+comment2.target=void\ render(java.awt.Graphics2D)
+numComments=3

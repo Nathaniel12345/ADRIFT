@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.params=timePassed
+comment0.target=void\ update(long)
+comment1.params=g
+comment1.target=void\ render(java.awt.Graphics2D)
+comment2.params=tf
+comment2.target=void\ selected(boolean)
+comment3.params=
+comment3.target=float\ getX()
+comment4.params=
+comment4.target=float\ getY()
+comment5.params=
+comment5.target=boolean\ isVisible()
+comment6.params=visible
+comment6.target=void\ setVisible(boolean)
+comment7.params=
+comment7.target=int\ getDelay()
+numComments=8

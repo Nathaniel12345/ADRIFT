@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=
+comment0.target=StaffLevelOrganizer()
+comment1.params=
+comment1.target=void\ levelUp()
+comment2.params=
+comment2.target=int\ getLevel()
+comment3.params=exp
+comment3.target=void\ addExp(int)
+comment4.params=
+comment4.target=int\ getExp()
+comment5.params=timePassed
+comment5.target=void\ update(long)
+comment6.params=g
+comment6.target=void\ render(java.awt.Graphics2D)
+numComments=7

@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=d
+comment0.target=SplashScreen(int)
+comment1.params=
+comment1.target=void\ showSplash()
+comment2.params=
+comment2.target=void\ splashIsDone()
+comment3.params=
+comment3.target=boolean\ ifSplashIsDone()
+comment4.params=
+comment4.target=void\ showSplashAndExit()
+comment5.params=args
+comment5.target=void\ main(java.lang.String[])
+numComments=6

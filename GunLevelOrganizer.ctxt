@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=GunLevelOrganizer()
+comment1.params=timePassed
+comment1.target=void\ update(long)
+comment2.params=g
+comment2.target=void\ render(java.awt.Graphics2D)
+comment3.params=
+comment3.target=Gun\ getCurrentGun()
+numComments=4

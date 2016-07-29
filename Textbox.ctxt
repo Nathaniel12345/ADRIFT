@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Textbox()
+comment1.params=g
+comment1.target=void\ render(java.awt.Graphics2D)
+comment2.params=timePassed
+comment2.target=void\ update(long)
+comment3.params=t
+comment3.target=void\ pause(long)
+comment4.params=t
+comment4.target=void\ setDelay(long)
+comment5.params=
+comment5.target=void\ startText()
+comment6.params=
+comment6.target=void\ close()
+comment7.params=s
+comment7.target=void\ add(java.lang.String)
+numComments=8

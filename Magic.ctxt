@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.params=g
+comment0.target=void\ render(java.awt.Graphics2D)
+comment1.params=timePassed
+comment1.target=void\ update(long)
+comment2.params=tf
+comment2.target=void\ selected(boolean)
+comment3.params=
+comment3.target=float\ getX()
+comment4.params=
+comment4.target=float\ getY()
+comment5.params=
+comment5.target=int\ getWidth()
+comment6.params=
+comment6.target=int\ getHeight()
+comment7.params=
+comment7.target=boolean\ isVisible()
+comment8.params=visible
+comment8.target=void\ setVisible(boolean)
+comment9.params=
+comment9.target=java.awt.Rectangle\ getBounds()
+numComments=10

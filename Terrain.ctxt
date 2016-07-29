@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ loadMap1()
+comment1.params=map\ length
+comment1.target=java.lang.String[][]\ generateLevelDirt(java.lang.String[][],\ int)
+comment2.params=map\ length
+comment2.target=java.lang.String[][]\ generateLevelSky(java.lang.String[][],\ int)
+comment3.params=sprite
+comment3.target=void\ createMap(Sprite)
+comment4.params=timePassed
+comment4.target=void\ update(long)
+comment5.params=g
+comment5.target=void\ render(java.awt.Graphics2D)
+comment6.params=
+comment6.target=java.lang.String[][]\ getCurrentMap()
+numComments=7
